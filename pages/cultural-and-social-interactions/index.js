@@ -25,7 +25,7 @@ export default function Home() {
                               style={{
                                   height: data.height,
                                   width: data.width
-                              }}
+                              }} 
                           >
                               <Image
                                   src={data.image}
