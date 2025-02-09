@@ -68,7 +68,7 @@ a {
   grid-template-columns: repeat(3, 1fr); 
   gap: 16px;
   padding: 16px;
-  padding-top: 403px;
+  padding-top: 44vh;
 }
 .cardImage{
   position: relative;
