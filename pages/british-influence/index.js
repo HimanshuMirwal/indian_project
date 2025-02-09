@@ -2,7 +2,7 @@ import Image from "next/image";
 import pageData from "../../constants";
 import Link from "next/link";
 export default function Home() {
-    const name = "cultural-and-social-interations"
+    const name = "british-influence"
 
   return (
       <>
